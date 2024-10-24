@@ -1,4 +1,4 @@
-# **Customer Demographics and Purchase Behavior Analysis**
+# **Customer Demographics and Purchase Behaviour Analysis**
 
 ## **Project Overview**
 This project analyzes customer demographics and purchase behavior using a retail dataset. The objective is to explore how factors such as age, income, gender, and loyalty status influence purchasing patterns. Key statistical methods and exploratory data analysis (EDA) techniques are used to uncover meaningful insights.
